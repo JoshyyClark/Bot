@@ -1,2 +1,3 @@
 # Bot
 GPRO cord bot
+I am going to make this at some point in the future, but I will not tell you when...
